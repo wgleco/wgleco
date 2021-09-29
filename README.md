@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @wgleco
-- 👀 I’m interested in Java, Spring, Golang
-- 🌱 I’m currently learning Golang
-- 💞️ I’m looking to collaborate on gleco
+- 👀 I’m interested in Java, Spring, Thymeleaf, Javascript
+- 🌱 I’m currently learning Thymeleaf
 - 📫 wgleeson@gmail.com
 
 <!---
